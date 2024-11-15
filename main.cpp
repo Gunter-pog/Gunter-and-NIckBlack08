@@ -2,8 +2,24 @@
 
 using namespace std;
 
+void Func1()
+{
+
+}
+
+void Func2()
+{
+
+}
+
+void Func3()
+{
+
+}
+
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    Func1();
+    Func2();
+    Func3();
 }
