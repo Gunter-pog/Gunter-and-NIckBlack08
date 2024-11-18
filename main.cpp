@@ -37,7 +37,6 @@ void Func3()
 int main()
 {
     vector<string> my_vector;
-    Func1(my_vector);
     Func2();
     Func3();
 }
