@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <string>
 
 using namespace std;
 
@@ -19,6 +21,7 @@ void Func3()
 
 int main()
 {
+    vector<string> my_vector;
     Func1();
     Func2();
     Func3();
