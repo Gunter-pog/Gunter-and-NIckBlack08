@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void Func1(vector<string> my_vector)
+void Func1(vector<string> &my_vector)
 {
     ifstream in;
     in.open("text.txt");
